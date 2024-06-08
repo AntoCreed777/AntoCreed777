@@ -3,7 +3,7 @@
 <img align='right' src='https://assets.bitdegree.org/crypto-tracker/nft-logos/wax/robotech-logo.png' width='25%'>  
 
 * 😊 `My name is`: **Antonio**,
-* 🫡 `Pronouns`: **Hhe/His**,
+* 🫡 `Pronouns`: **He/His**,
 * 🥸`I'm`: **19 years old**
 * 👾 `I’m currently learning`: **Python**,
 * ❤️ `I love`: **Anime, Music & Videogames**  ,
