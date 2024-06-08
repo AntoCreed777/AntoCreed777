@@ -4,7 +4,7 @@
 
 * 😊 `My name is`: **Antonio**,
 * 🫡 `Pronouns`: **He/His**,
-* 🥸`I'm`: **19 years old**
+* 🥸`I'm`: **19 years old**,
 * 👾 `I’m currently learning`: **Python**,
 * ❤️ `I love`: **Anime, Music & Videogames**  ,
 * 💻 `Favorite lang`: **C**
@@ -25,11 +25,12 @@
 
 <h2 align="center">⚡ My Skills</h2>
 
-<h4 align="center">💻 Programming languages (and html)</h4>
+<h4 align="center">💻 Programming languages</h4>
 
 <p align="center">
-<img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
-<img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
+<img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white">
+<img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white">
+<img alt="C" src="https://img.shields.io/badge/C-14354C.svg?&logoColor=white">
 
 <h4 align="center">⚙ Software</h4>
 
