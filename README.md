@@ -1,5 +1,6 @@
 <h2 align="center">👋 Hi there</h2>
 
+<img align='right' src='https://assets.bitdegree.org/crypto-tracker/nft-logos/wax/robotech-logo.png' width='25%'>  
 
 * 😊 `My name is`: **Antonio**,
 * 🫡 `Pronouns`: **Hhe/His**,
