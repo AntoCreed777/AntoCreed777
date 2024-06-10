@@ -1,6 +1,6 @@
-<h2 align="center">👋 Hi there</h2>
+<h2 align="center">👋 Welcome, I am here to serve you</h2>
 
-<img align='right' src='https://assets.bitdegree.org/crypto-tracker/nft-logos/wax/robotech-logo.png' width='25%'>  
+<img align='right' src='https://github-readme-stats.vercel.app/api/top-langs/?username=AntoCreed777&theme=radical' width='20%'>  
 
 * 😊 `My name is`: **Antonio**,
 * 🫡 `Pronouns`: **He/His**,
@@ -10,14 +10,11 @@
 * 💻 `Favorite lang`: **C**
 
 <br/>
+<br/>
 
 <h2 align="center">☕ Statistics</h2>
 
-<p align="center">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=AntoCreed777&show_icons=true&count_private=true&theme=java-dark&hide_border=true&hide=issues,contribs&bg_color=00000000">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=AntoCreed777&layout=compact&hide_border=true&theme=java-dark&bg_color=00000000&langs_count=6">
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=AntoCreed777&theme=java-dark&hide_border=true&background=FFFFFF00">
-</p>
+![](https://github-readme-activity-graph.vercel.app/graph?username=AntoCreed777&theme=react-dark)
 
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=AntoCreed777&theme=tokyonight"/>
