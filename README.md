@@ -3,11 +3,10 @@
 <img align='right' src='https://github-readme-stats.vercel.app/api/top-langs/?username=AntoCreed777&theme=radical' width='20%'>  
 
 * 😊 `My name is`: **Antonio**,
-* 🫡 `Pronouns`: **He/His**,
 * 🥸`I'm`: **19 years old**,
 * 👾 `I’m currently learning`: **Python**,
 * ❤️ `I love`: **Anime, Music & Videogames**  ,
-* 💻 `Favorite lang`: **C**
+* 💻 `Favorite lang`: **C and C++**
 
 <br/>
 <br/>
@@ -26,7 +25,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,java,py&perline=12" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,py,matlab&perline=12" />
   </a>
 </p>
 
@@ -34,6 +33,6 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,maven,bash,linux,arduino&perline=12" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,pycharm,maven,bash,linux,arduino&perline=12" />
   </a>
 </p>
