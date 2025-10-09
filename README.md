@@ -6,10 +6,10 @@
 
 - 😊 **Nombre:** Antonio  
 - 🥸 **Edad:** 20 años  
-- 👾 **Aprendiendo:** Django  
-- 💻 **Lenguajes favoritos:** C y C++  
+- 👾 **Aprendiendo:** Rust
+- 💻 **Lenguajes favoritos:** C++ y Python 
 - 🎶 **Aficiones:** Anime, música y videojuegos  
-- 🚀 **Objetivo:** Seguir aprendiendo nuevas tecnologías y contribuir a proyectos open source  
+- 🚀 **Objetivo:** Seguir aprendiendo nuevas tecnologías y contribuir a proyectos open source
 
 ---
 
@@ -29,14 +29,14 @@
 <h4 align="center">💻 Lenguajes de programación</h4>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,py,matlab&perline=12" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,py&perline=12" />
   </a>
 </p>
 
 <h4 align="center">⚙️ Software y herramientas</h4>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,pycharm,maven,bash,linux,arduino&perline=12" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,pycharm,bash,linux&perline=12" />
   </a>
 </p>
 
@@ -59,6 +59,9 @@
   </a>
   <a href="https://github.com/AntoCreed777/D.O.O---ProyectoFinal">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=AntoCreed777&repo=D.O.O---ProyectoFinal&theme=radical" />
+  </a>
+  <a href="https://github.com/AntoCreed777/Template_Informe">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AntoCreed777&repo=Template_Informe&theme=radical" />
   </a>
 </p>
 
