@@ -18,9 +18,6 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AntoCreed777&theme=react-dark" width="90%">
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AntoCreed777&show_icons=true&theme=radical">
-</p>
 
 ---
 
@@ -63,10 +60,6 @@
 <p align="center">
   <a href="mailto:antbenavides2023@udec.cl"><img src="https://img.shields.io/badge/email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
   <a href="https://linkedin.com/in/antonio-benavides-puentes-b6456726b"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AntoCreed777&label=Profile%20views&color=0e75b6&style=flat" alt="AntoCreed777" />
 </p>
 
 ---
