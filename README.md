@@ -50,9 +50,9 @@
 | Proyecto | Descripción | Lenguaje | Estado | ⭐ |
 |----------|-------------|----------|--------|----|
 | [SHELL_CUSTOM](https://github.com/AntoCreed777/SHELL_CUSTOM) | No description provided | ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) | ![Archived](https://img.shields.io/badge/archived-inactive-lightgrey) | 0 |
-| [nonogram](https://github.com/AntoCreed777/nonogram) | No description provided | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | ![Archived](https://img.shields.io/badge/archived-inactive-lightgrey) | 0 |
-| [D.O.O---ProyectoFinal](https://github.com/AntoCreed777/D.O.O---ProyectoFinal) | Proyecto Final de la Asignatura de Desarrollo Orientado a Objeto de UdeC | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white) | ![Archived](https://img.shields.io/badge/archived-inactive-lightgrey) | 0 |
-| [Template_Informe](https://github.com/AntoCreed777/Template_Informe) | Template LaTeX para informes universitarios | ![TeX](https://img.shields.io/badge/TeX-3D6117?style=flat&logo=latex&logoColor=white) | ![Template](https://img.shields.io/badge/template-active-brightgreen) | 5 |
+| [Sistemas_Adaptativos](https://github.com/AntoCreed777/Sistemas_Adaptativos) | Desarrollo progresivo de soluciones para el problema del Conjunto Independiente Máximo (Maximum Independent Set Problem, MISP).  | ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) | ![Archived](https://img.shields.io/badge/archived-inactive-lightgrey) | 0 |
+| [IA-Classic-vs-Genetic-Algorithm](https://github.com/AntoCreed777/IA-Classic-vs-Genetic-Algorithm) | Implementación de algoritmos clásicos, algoritmos de aprendizaje por refuerzo y algoritmos genéticos para encontrar soluciones en entornos dinámicos. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | ![Archived](https://img.shields.io/badge/archived-inactive-lightgrey) | 0 |
+| [template_informe_latex](https://github.com/AntoCreed777/template_informe_latex) | Template LaTeX para informes universitarios | ![TeX](https://img.shields.io/badge/TeX-3D6117?style=flat&logo=latex&logoColor=white) | ![Template](https://img.shields.io/badge/template-active-brightgreen) | 5 |
 
 ---
 
