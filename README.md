@@ -6,10 +6,10 @@
 
 - 😊 **Nombre:** Antonio  
 - 🥸 **Edad:** 20 años  
-- 👾 **Aprendiendo:** Rust
+- 👾 **Aprendiendo:** Deep Learning
 - 💻 **Lenguajes favoritos:** C++ y Python 
 - 🎶 **Aficiones:** Anime, música y videojuegos  
-- 🚀 **Objetivo:** Seguir aprendiendo nuevas tecnologías y contribuir a proyectos open source
+- 🚀 **Objetivo:** Seguir aprendiendo nuevas tecnologías y algoritmos
 
 ---
 
